@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  FrontEnd:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-07-10T18:20:53.342264463Z"
+    description: A Helm chart for Kubernetes
+    digest: 188547e0338ce6df4493ed26cf7e2e0164d7e048431528b802a522b3561b98eb
+    name: FrontEnd
+    type: application
+    urls:
+    - https://philnee.github.io/HelmRepo/FrontEnd-0.1.8.tgz
+    version: 0.1.8
+generated: "2020-07-10T18:20:53.341613956Z"
