@@ -3,7 +3,7 @@ entries:
   FrontEnd:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-11T09:54:57.875855725Z"
+    created: "2020-07-11T09:59:34.42472676Z"
     description: A Helm chart for Kubernetes
     digest: b2a42cc188806df48eef60974e958f9773a534757d4d7749ac984fe6fd53cdc2
     name: FrontEnd
@@ -13,7 +13,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-11T09:54:57.875237827Z"
+    created: "2020-07-11T09:59:34.424223457Z"
     description: A Helm chart for Kubernetes
     digest: 704db8908e175b4a1a9e95707a69b766200c5b887be58dad0bbdc2c37c2ead3e
     name: FrontEnd
@@ -23,7 +23,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-11T09:54:57.877043022Z"
+    created: "2020-07-11T09:59:34.425641666Z"
     description: A Helm chart for Kubernetes
     digest: 787d411da7955b2780173af125fde9061f8af39bb57c180e81fa51525d934bfa
     name: FrontEnd
@@ -33,7 +33,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-11T09:54:57.876453223Z"
+    created: "2020-07-11T09:59:34.425147263Z"
     description: A Helm chart for Kubernetes
     digest: 25274240338de9ed52b232dd1b90548ef3327f81814684bdf7f307057afee839
     name: FrontEnd
@@ -44,7 +44,7 @@ entries:
   front-end:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-11T09:54:57.87761842Z"
+    created: "2020-07-11T09:59:34.42618807Z"
     description: A Helm chart for Kubernetes
     digest: d859d60c39b111cdef5006a1e5063dfec852c59da68d5fd807f87f9cd9923fb1
     name: front-end
@@ -52,4 +52,15 @@ entries:
     urls:
     - https://philnee.github.io/HelmRepo/front-end-0.1.12.tgz
     version: 0.1.12
-generated: "2020-07-11T09:54:57.874283029Z"
+  frontend:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-07-11T09:59:34.426703873Z"
+    description: A Helm chart for Kubernetes
+    digest: 1f2ffb61ebf026db10deb3d495bda4d69c9514cec1b319f787891810806713e7
+    name: frontend
+    type: application
+    urls:
+    - https://philnee.github.io/HelmRepo/frontend-0.1.13.tgz
+    version: 0.1.13
+generated: "2020-07-11T09:59:34.423553253Z"
