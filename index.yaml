@@ -3,7 +3,7 @@ entries:
   FrontEnd:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.202909688Z"
+    created: "2020-07-14T20:30:25.976821698Z"
     description: A Helm chart for Kubernetes
     digest: b2a42cc188806df48eef60974e958f9773a534757d4d7749ac984fe6fd53cdc2
     name: FrontEnd
@@ -13,7 +13,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.202435288Z"
+    created: "2020-07-14T20:30:25.976201865Z"
     description: A Helm chart for Kubernetes
     digest: 704db8908e175b4a1a9e95707a69b766200c5b887be58dad0bbdc2c37c2ead3e
     name: FrontEnd
@@ -23,7 +23,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.203945791Z"
+    created: "2020-07-14T20:30:25.977948557Z"
     description: A Helm chart for Kubernetes
     digest: 787d411da7955b2780173af125fde9061f8af39bb57c180e81fa51525d934bfa
     name: FrontEnd
@@ -33,7 +33,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.20345079Z"
+    created: "2020-07-14T20:30:25.977383227Z"
     description: A Helm chart for Kubernetes
     digest: 25274240338de9ed52b232dd1b90548ef3327f81814684bdf7f307057afee839
     name: FrontEnd
@@ -44,7 +44,7 @@ entries:
   front-end:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.204418591Z"
+    created: "2020-07-14T20:30:25.978506087Z"
     description: A Helm chart for Kubernetes
     digest: d859d60c39b111cdef5006a1e5063dfec852c59da68d5fd807f87f9cd9923fb1
     name: front-end
@@ -54,8 +54,18 @@ entries:
     version: 0.1.12
   frontend:
   - apiVersion: v2
+    appVersion: 0.1.2
+    created: "2020-07-14T20:30:25.982092476Z"
+    description: A Helm chart for Kubernetes
+    digest: 2db3cbed416f35ac7669c14c6a31f726dda268289156dc556e64a7a6b2af8675
+    name: frontend
+    type: application
+    urls:
+    - https://philnee.github.io/HelmRepo/frontend-0.1.19.tgz
+    version: 0.1.19
+  - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-07-14T20:18:33.206992597Z"
+    created: "2020-07-14T20:30:25.981606951Z"
     description: A Helm chart for Kubernetes
     digest: 4cb86b5b4a0c758424b64c23c6e9c04d18300c5e795d9ff5b2c7a865f4f4b705
     name: frontend
@@ -65,7 +75,7 @@ entries:
     version: 0.1.18
   - apiVersion: v2
     appVersion: 0.1.1
-    created: "2020-07-14T20:18:33.206581496Z"
+    created: "2020-07-14T20:30:25.981132626Z"
     description: A Helm chart for Kubernetes
     digest: 19bb1a783a1b431082e150e80891b82abe5444b4137404854606c935f04da2c7
     name: frontend
@@ -75,7 +85,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.206164695Z"
+    created: "2020-07-14T20:30:25.980608298Z"
     description: A Helm chart for Kubernetes
     digest: b844e796855fc49b5741418a5ee4b3f68d53b6c7f23d59d29a8355a13b681daa
     name: frontend
@@ -85,7 +95,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.205760594Z"
+    created: "2020-07-14T20:30:25.980126272Z"
     description: A Helm chart for Kubernetes
     digest: 70457b37daccca82fb1ae6c542858830f4c463f621f236818d1e318e1cddf736
     name: frontend
@@ -95,7 +105,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.205292193Z"
+    created: "2020-07-14T20:30:25.979599245Z"
     description: A Helm chart for Kubernetes
     digest: 3ee47c3612e8b461986fdbe06d35b0f391e9e44f3a177f9e6e7823b89cf85433
     name: frontend
@@ -105,7 +115,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-14T20:18:33.204858192Z"
+    created: "2020-07-14T20:30:25.979051416Z"
     description: A Helm chart for Kubernetes
     digest: 1f2ffb61ebf026db10deb3d495bda4d69c9514cec1b319f787891810806713e7
     name: frontend
@@ -113,4 +123,4 @@ entries:
     urls:
     - https://philnee.github.io/HelmRepo/frontend-0.1.13.tgz
     version: 0.1.13
-generated: "2020-07-14T20:18:33.201513086Z"
+generated: "2020-07-14T20:30:25.975239414Z"
