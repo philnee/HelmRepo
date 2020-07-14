@@ -3,7 +3,7 @@ entries:
   FrontEnd:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.587585382Z"
+    created: "2020-07-14T19:46:37.837943079Z"
     description: A Helm chart for Kubernetes
     digest: b2a42cc188806df48eef60974e958f9773a534757d4d7749ac984fe6fd53cdc2
     name: FrontEnd
@@ -13,7 +13,7 @@ entries:
     version: 0.1.11
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.587177181Z"
+    created: "2020-07-14T19:46:37.837527578Z"
     description: A Helm chart for Kubernetes
     digest: 704db8908e175b4a1a9e95707a69b766200c5b887be58dad0bbdc2c37c2ead3e
     name: FrontEnd
@@ -23,7 +23,7 @@ entries:
     version: 0.1.10
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.588469083Z"
+    created: "2020-07-14T19:46:37.83881348Z"
     description: A Helm chart for Kubernetes
     digest: 787d411da7955b2780173af125fde9061f8af39bb57c180e81fa51525d934bfa
     name: FrontEnd
@@ -33,7 +33,7 @@ entries:
     version: 0.1.9
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.587984382Z"
+    created: "2020-07-14T19:46:37.838361979Z"
     description: A Helm chart for Kubernetes
     digest: 25274240338de9ed52b232dd1b90548ef3327f81814684bdf7f307057afee839
     name: FrontEnd
@@ -44,7 +44,7 @@ entries:
   front-end:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.588872583Z"
+    created: "2020-07-14T19:46:37.83922728Z"
     description: A Helm chart for Kubernetes
     digest: d859d60c39b111cdef5006a1e5063dfec852c59da68d5fd807f87f9cd9923fb1
     name: front-end
@@ -55,9 +55,9 @@ entries:
   frontend:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.591049286Z"
+    created: "2020-07-14T19:46:37.841164082Z"
     description: A Helm chart for Kubernetes
-    digest: 9534e1cbe6cf13185c6a3c527604e701698ded50b6c7f01b3bb6218d7daabe5d
+    digest: 944a06621d8be82af595f74782123796c94d046dc63129e15ed5d45d421f3919
     name: frontend
     type: application
     urls:
@@ -65,7 +65,7 @@ entries:
     version: 0.1.17
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.590670286Z"
+    created: "2020-07-14T19:46:37.840776881Z"
     description: A Helm chart for Kubernetes
     digest: b844e796855fc49b5741418a5ee4b3f68d53b6c7f23d59d29a8355a13b681daa
     name: frontend
@@ -75,7 +75,7 @@ entries:
     version: 0.1.16
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.590312985Z"
+    created: "2020-07-14T19:46:37.840424381Z"
     description: A Helm chart for Kubernetes
     digest: 70457b37daccca82fb1ae6c542858830f4c463f621f236818d1e318e1cddf736
     name: frontend
@@ -85,7 +85,7 @@ entries:
     version: 0.1.15
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.589921285Z"
+    created: "2020-07-14T19:46:37.840032181Z"
     description: A Helm chart for Kubernetes
     digest: 3ee47c3612e8b461986fdbe06d35b0f391e9e44f3a177f9e6e7823b89cf85433
     name: frontend
@@ -95,7 +95,7 @@ entries:
     version: 0.1.14
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2020-07-12T18:56:13.589336084Z"
+    created: "2020-07-14T19:46:37.83963088Z"
     description: A Helm chart for Kubernetes
     digest: 1f2ffb61ebf026db10deb3d495bda4d69c9514cec1b319f787891810806713e7
     name: frontend
@@ -103,4 +103,4 @@ entries:
     urls:
     - https://philnee.github.io/HelmRepo/frontend-0.1.13.tgz
     version: 0.1.13
-generated: "2020-07-12T18:56:13.58662808Z"
+generated: "2020-07-14T19:46:37.836780278Z"
